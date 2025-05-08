@@ -24,8 +24,7 @@ any previous files associated with this mod, as they will otherwise conflict.
 ======== FUTURE UPDATES ========
 
 As with my last mod (https://www.nexusmods.com/thelastofuspart2/mods/210), having to create a new .psarc file
-for every limit change isn't great. In the future, changing values like this via the modmanager will hopefully be possible on the
-fly, and should make mods like this a lot cleaner.
+for every limit change isn't great. In the future, changing values like this via the modmanager will hopefully be possible on the fly, and should make mods like this a lot cleaner.
 
 
 ======== CHANGELOG ========
