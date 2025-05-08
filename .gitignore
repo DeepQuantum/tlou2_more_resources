@@ -1,0 +1,4 @@
+.vscode
+.mypy_cache
+ndarc.exe
+patch_inventory.exe

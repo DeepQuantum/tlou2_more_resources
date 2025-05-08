@@ -1,0 +1,6 @@
+alcohol=10
+container=10
+blade=10
+binding=10
+rag=10
+explosive=10
