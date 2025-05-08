@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
         custom_limits[i] *= 4;
         fwrite(custom_limits + i, sizeof(int), 1, bin_file);
         custom_limits[i] /= 4;
-        printf("Updated limit for %s from 3 to %d\n", line_buffer, custom_limits[i]);
+        printf("Updated limit for '%s': from 3 -> %d\n", line_buffer, custom_limits[i]);
     }
 
     fclose(bin_file);
