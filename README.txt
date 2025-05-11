@@ -29,4 +29,5 @@ for every limit change isn't great. In the future, changing values like this via
 
 ======== CHANGELOG ========
 
+* 1.1.0 | Fixed extra revolver ammo
 * 1.0.0 | Release
